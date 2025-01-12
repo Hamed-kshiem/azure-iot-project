@@ -100,3 +100,7 @@ The web interface displays live temperature and humidity values in a line chart 
 ---
 
 For further information, please refer to Azure IoT Hub documentation or contact the development team.
+
+## pi test client
+
+https://azure-samples.github.io/raspberry-pi-web-simulator/#GetStarted
