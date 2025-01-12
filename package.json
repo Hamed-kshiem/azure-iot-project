@@ -1,0 +1,25 @@
+{
+  "name": "azure",
+  "version": "1.0.0",
+  "description": "iot hub web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "node index.js",
+    "start:frontend": "http-server -c-1 -p 3000 -o -f /index3.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure",
+    "iot",
+    "hub"
+  ],
+  "author": "hamed kshiem",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^5.12.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+  }
+}
