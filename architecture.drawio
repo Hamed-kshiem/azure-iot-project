@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
+  <diagram name="Page-1" id="6dayMpn_eQpj95ljt2Uw">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/1109534-200.png;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pKPbSuk1x5zR3xP0OOzr-3" target="pKPbSuk1x5zR3xP0OOzr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-8" value="live monetoring" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pKPbSuk1x5zR3xP0OOzr-6">
+          <mxGeometry x="0.0194" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" vertex="1" parent="1">
+          <mxGeometry x="391" y="278" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.062;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKPbSuk1x5zR3xP0OOzr-2" target="pKPbSuk1x5zR3xP0OOzr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-7" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pKPbSuk1x5zR3xP0OOzr-4">
+          <mxGeometry x="-0.0342" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="276" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="pKPbSuk1x5zR3xP0OOzr-10" value="Germany West Central" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
